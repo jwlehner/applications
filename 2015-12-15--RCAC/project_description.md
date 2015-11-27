@@ -163,25 +163,25 @@ colors, style),.
  - 
 
 
-## Relevance for the given field 
+## Relevance for the field of archaeology
 
 The proposed project will characterize the human-environment interactions, their
 nature and intensity on the Milesian Peninsula from the prehistoric to the
 Byzantine time. Nearly all previous work on this topic has relied on excavations
 or extensive surveys, which are often inadequate to test hypotheses concerning
-hinterland occupation, integration or economy. Small or short occupations,
-which made the landscape, remained undocumented. By examining a mirco-region
-materials using extensive but also intensive survey data and excavation, this work will test
-long-held assumptions about the occupation from Prehistoric to Byzantine periods
-and explain how uncertainty plays a role in the construction of this narratives.
-Furthermore, an important goal of this project is to strength the ongoing
-relations among survey by providing reusable code and enabling the creation of
-personalized maps to compare surveys, which a similar basis. This research
-project, which implements cuting-edge research methods in the spirit of Open
-Access will support the establishment of RCAC and Koç into the forefront of the
-emerging field of 'Digital Archeology'. I believe that this project and future
-collaborations that develop out of this project will help serve to accomplish
-this.
+hinterland occupation, integration or economy. Small or short occupations, which
+populated the landscape, remained undocumented. This work will test long-held
+assumptions about the occupation from Prehistoric to Byzantine periods, and
+explain how uncertainties can play a role in the construction of narratives by
+examining a mirco-region materials using extensive but also intensive survey and
+excavation data. Furthermore, an important goal of this project is to strength
+the ongoing relations among survey by providing reusable code and enabling the
+creation of personalized maps to compare surveys, on a similar basis. This
+research project, which implements cuting-edge research methods in the spirit of
+Open Access will support the establishment of RCAC and Koç into the forefront of
+the emerging field of 'Digital Archeology'. I believe that this project and
+future collaborations that develop out of this project will help serve to
+accomplish this.
 
 ## Outcomes 
 
