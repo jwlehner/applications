@@ -1,0 +1,186 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Néhémie CV
+% LaTeX Version
+% Version 1.0 (2015-11-29)
+%
+% This CV use the template Plasmati Graduate CV
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+% Original author:
+% Alessandro Plasmati (alessandro.plasmati@gmail.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template needs to be compiled with XeLaTeX.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Main changes
+% The main document font is called Gentium 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[a4paper,10pt]{article} 
+
+\usepackage{fontspec}
+
+\defaultfontfeatures{Mapping = tex-text,
+                       Scale = MatchLowercase}
+
+\setmainfont[SmallCapsFont = Fontin SmallCaps, 
+                  BoldFont = Gentium Basic Bold,
+                ItalicFont = Gentium Basic Italic,
+            BoldItalicFont = Gentium Basic Bold Italic]{Gentium}
+
+\usepackage{xunicode,
+            xltxtra,
+            url,
+            parskip} % Formatting packages
+\usepackage[usenames,dvipsnames]{xcolor} 
+\usepackage[a4paper]{geometry}
+\geometry{top = 2cm,
+       bottom = 2cm,
+         left = 2cm,
+        right = 2.5cm
+      }
+
+\usepackage{hyperref}
+\definecolor{linkcolour}{rgb}{0,0.2,0.6} % Set link colors throughout the document
+\hypersetup{colorlinks, breaklinks,urlcolor = linkcolour,linkcolor = linkcolour} 
+
+\usepackage{titlesec} % Used to customize the \section command
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule] % Text formatting of sections
+\titlespacing{\section}{0pt}{3pt}{3pt} % Spacing around sections
+
+\usepackage{longtable}
+\usepackage{multicol}
+  \usepackage[Pub,Talk,References, BoShort]{optional} % %[Pub,Talk,References,
+%                                                         BoShort, BoLong]
+\usepackage[english]{isodate}
+
+\usepackage{etoolbox}
+\makeatletter % change the display of \thepag in header
+\patchcmd{\ps@myheadings}{\hfil\thepage}{\hfil\textcolor{Gray}{\thepage}}{}{}
+\makeatother
+
+\pagestyle{myheadings} % personalised page numbering
+\markright{\textcolor{Gray}{\hfill CV Néhémie Strupler }}
+\font\fb=''[cmr10]'' % Change the font of the \LaTeX command under the skills section
+
+\begin{document}
+
+%-------------------------------------------------------------------------------
+%	TITLE
+%-------------------------------------------------------------------------------
+\thispagestyle{empty}
+\par{\centering{\Huge Néhémie \textsc{Strupler}}\bigskip\par} % Your name
+\vspace{-0.7cm}
+\flushright {\small \textcolor{Gray}{Last update: \isodate\today} } % Last Update
+
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL Data 
+%-------------------------------------------------------------------------------
+
+\vspace{0.5cm}
+\section{Personal Data}
+
+\flushleft
+\begin{tabular}{rl}
+\textsc{Place and Date of Birth} & Strasbourg, France  | 13 September 1987 \\
+%\textsc{Adress} & 4 rue du professeur Fournier | 25000 Besançon | France \\
+%\textsc{Phone} &  +49 (0)251 395 02 539\\
+\textsc{email} & \href{mailto:nehemie.strupler@etu.unistra.fr}{nehemie.strupler@etu.unistra.fr}
+\end{tabular}
+
+
+
+
+%------------------------------------------------------------------------------
+%	DEGREES 
+%-------------------------------------------------------------------------------
+\vspace{0.3cm}
+\input{degrees}
+
+%-------------------------------------------------------------------------------
+%	PROFESSIONAL EXPERIENCE
+%-------------------------------------------------------------------------------
+
+\vspace{0.cm}
+\input{professional-experience}
+
+
+%-------------------------------------------------------------------------------
+%	DOCTORAL EDUCATION
+%-------------------------------------------------------------------------------
+\vspace{0.2cm}
+\input{education-PHD}
+
+\input{education-MA}
+
+
+
+
+%-------------------------------------------------------------------------------
+%	SCHOLARSHIPS 
+%-------------------------------------------------------------------------------
+
+\input{scholarships}
+
+
+
+
+%-------------------------------------------------------------------------------
+%	COURSES
+%-------------------------------------------------------------------------------
+\vspace{0.5cm}
+\input{courses}
+
+
+
+
+
+%-------------------------------------------------------------------------------
+%	LANGUAGES and COMPUTER SKILLS
+%-------------------------------------------------------------------------------
+\input{languangeAndComputerSkills.tex}
+
+
+\vspace{0.5cm}
+\input{museum-experience}
+
+\pagebreak
+
+
+\vspace{-3cm}
+\input{field}
+
+%-------------------------------------------------------------------------------
+%	Publication
+%-------------------------------------------------------------------------------
+\opt{Pub}{
+  \vspace{1cm}
+  \input{publications}
+}
+
+%-------------------------------------------------------------------------------
+% Talk	
+%-------------------------------------------------------------------------------
+\opt{Talk}{
+\newpage
+  \vspace{0.5cm}
+ \input{talk}
+}
+
+
+%-------------------------------------------------------------------------------
+% References	
+%-------------------------------------------------------------------------------
+\opt{References}{
+\vspace{1cm}
+\input{references}
+}
+
+
+\end{document}
