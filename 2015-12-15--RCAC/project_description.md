@@ -14,7 +14,7 @@ Koç RCAC: Post-Doc Fellowship application
 
 
 
-# Visualize diachronic Human-environment Interactions: A Model for the Milesian Peninsula
+# Visualize Diachronic Human-environment Interactions: A Model for the Milesian Peninsula
 
  
 This project will characterize the human-environment interactions, their nature
@@ -56,7 +56,7 @@ Anatolia by promoting an open access and open research commitment.
 ## Background to the project 
 
 Multiple works have been dedicated on the geology of the Milesian Peninsula (H.
-Brückner), and  its archaeological remains (Milet, Priene, Didym, Tavşan Adası)
+Brückner), and  its archaeological remains (Milet, Priene, Didyma, Tavşan Adası)
 as well as  extensive surveys (Paul Wilski, Hans Lohmann) covering over a
 century of research. This work is often inadequate to build model and to test
 hypotheses concerning hinterland occupation, integration or economic
@@ -68,9 +68,9 @@ time and space (intrinsic to the nature of data) as well as in the collection of
 data ('human error') has been underestimated, if not wholly ignored, in
 archaeological applications. This lead to a biased representation of what
 existed. By counter-balancing such selective reporting, this project aims to
-expand the capacity of formulating generalizations. Here I present a research
-proposal for an analysis of data from the Milesian Peninsula collected as part
-of the survey of the *Panormos Project*.
+expand the capacity of formulating human-environment generalizations. Here I
+present a research proposal for an analysis of data from the Milesian Peninsula
+collected as part of the survey of the *Panormos Project*.
 
 
 
@@ -90,12 +90,14 @@ started an intensive pedestrian survey
 that will continue during the summer 2016.
 
 The survey teams systematically walking the landscape, which was divided into
-survey tracts (50 x 50 m), using a coverage of 20 % : five walkers, each
+survey tracts (50 x 50 m), using a coverage of 20 % (five walkers, each
 covering a swath of two meters, with a spacing between walkers of approximately
 ten meters). All archaeological materials encountered were counted and
 diagnostic finds were collected. A wide array of relevant data, such as
 visibility conditions, topographical and geomorphological characteristics,
-present land-use, and so forth were also recorded. The survey was designed 'born
+present land-use, and so forth were also recorded. 
+
+<!-- The survey was designed 'born
 digital' and 'Free'. The digital infrastructure, for which I was particularly
 involved,  produces standardized data,
 and structures data in a form ready for long term archiving and quick
@@ -103,9 +105,9 @@ open access dissemination. This has not only provided a smooth field
 documentation process, it has also opened a whole new area of possibilities for
 fieldwork techniques, simultaneous cooperation in different locations as well as
 expanding transparency in the methodology and the results by using scripts of
-code for reproducible, reusable and modifiable analysis.
+code for reproducible, reusable and modifiable analysis.-->
 
-Records from the  Chalcolithic to the Ottoman periods (ca. 5th millennium
+Records from the  Chalcolithic to the Ottoman period (ca. 5th millennium
 B.C./2nd millennium A.D.) demonstrate that long-held assumptions should be
 revised. On the one hand, we find scarce evidence for prehistoric interactions
 in regard to known settlements; yet on the other, we find abrupt and rapidly
@@ -149,18 +151,18 @@ augmented.
 archaeological sites, digitization of environmental data, natural resource, roads,
 modern land-use, elevation model, etc.
  
-3. **Visualizing uncertainty**: The landscape is not static and time is constrained
-   in ranges. Collection of data at various moments result in different
-archaeological data set (before or after a field being plowed for example, or
-heavy rain). Attributed time to artifacts varies between ranges of 25 years to
-300 years, which are susceptible to evolve according to new discoveries or
-reevaluation of precedent assumption. I focus on accounting for uncertainty when
-mapping distributions by integrating formally the temporal dimension. In this
-part I will implement research done in geographical research using aoristic
-analysis. Spatial uncertainty will be processed with multi-scalar and Monte
-Carlo approaches. The output will thus not be to propose a single solution (a single
-pattern) but rather an environment where comparisons between alternative
-hypotheses are made easier.  
+3. **Visualizing uncertainty**: The landscape is not static and time is
+   constrained in ranges. Collection of data at various moments result in
+different archaeological data set (before or after a field being plowed for
+example, or heavy rain). Attributed time to artifacts varies between ranges of
+25 years to 300 years, which are susceptible to evolve according to new
+discoveries or reevaluation of precedent assumption. I focus on accounting for
+uncertainty when mapping distributions by integrating formally the temporal
+dimension. In this part I will implement research done in geographical research
+using aoristic analysis. Spatial uncertainty will be processed with multi-scalar
+and Monte Carlo approaches. The output will thus not be to propose a single
+solution (a single pattern) but rather an environment where comparisons between
+alternative hypotheses are made easier.  
 
 <!-- Commented out
 4. Enabling interactivity: Re-assessment of established narratives is often an
@@ -181,7 +183,7 @@ information, colors, style),.
 
 - Light Computational Environment (Server running R and Gitlab)
 
-- Ground-truthing from the Milesian region
+- Ground-truthing the Milesian region
 
 
 
