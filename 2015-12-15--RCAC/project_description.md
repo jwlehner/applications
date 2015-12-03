@@ -23,11 +23,10 @@ from the prehistoric to the ottoman period. A new intensive survey on the
 peninsula provides the opportunity to reassess hypothesis concerning hinterland
 occupation, settlement patterns, interconnection and flows of commodities in
 this particular setting. More generally for the field of archeology, this work
-will <!--illustrate how mapping plays a central role in the construction of
-narratives by formulating--> formulate innovative generalizations about the
-visualization of uncertainty and inaccuracy in time and space - intrinsic to the
-nature of data - to address human-environment interactions. The three principal
-lines of research encompass : 
+will formulate innovative generalizations about the visualization of uncertainty
+and inaccuracy in time and space - intrinsic to the nature of data - to address
+human-environment interactions. The three principal lines of research encompass
+: 
 
  1. Focus on traditional narrative reconstructions and their visualization by
     using data from the extensive and intensive survey of the *Panormos Project*
@@ -87,9 +86,8 @@ context of the landscape surrounding the necropolis, the intensity and types of
 usage of the area, before and after its main occupation. Why after different
 extensive surveys was this necropolis still undiscovered and what does that mean
 for the general assessment of the region? In 2015, the *Project Panormos* team
-started an intensive pedestrian survey <!-- around the necropolis with the aim
-of increasing ‘horizontal’ and ‘diachronic’ knowledge of this part of the
-Milesian peninsula. This work--> that will continue during the summer 2016.
+started an intensive pedestrian survey
+that will continue during the summer 2016.
 
 The survey teams systematically walking the landscape, which was divided into
 survey tracts (50 x 50 m), using a coverage of 20 % : five walkers, each
