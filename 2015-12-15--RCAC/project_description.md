@@ -12,6 +12,8 @@ footnotes.
 
 Koç RCAC: Post-Doc Fellowship application
 
+(words: 1458) 
+
 
 
 # Visualize Diachronic Human-environment Interactions: A Model for the Milesian Peninsula
@@ -101,16 +103,6 @@ diagnostic finds were collected. A wide array of relevant data, such as
 visibility conditions, topographical and geomorphological characteristics,
 present land-use, and so forth were also recorded. 
 
-<!-- The survey was designed 'born
-digital' and 'Free'. The digital infrastructure, for which I was particularly
-involved,  produces standardized data,
-and structures data in a form ready for long term archiving and quick
-open access dissemination. This has not only provided a smooth field
-documentation process, it has also opened a whole new area of possibilities for
-fieldwork techniques, simultaneous cooperation in different locations as well as
-expanding transparency in the methodology and the results by using scripts of
-code for reproducible, reusable and modifiable analysis.-->
-
 Records from the  Chalcolithic to the Ottoman period  demonstrate that long-held
 assumptions should be revised. On the one hand, we find scarce evidence for
 prehistoric interactions in regard to known settlements; yet on the other, we
@@ -156,29 +148,16 @@ different archaeological data set (before or after a field being plowed for
 example, or heavy rain). Attributed time to artifacts varies between ranges of
 25 years to 300 years, which are susceptible to evolve according to new
 discoveries or reevaluation of precedent assumption. To address spatial patterns
-and process  and, potentially, the underlying process behind them, I will create
-visualization using point pattern analysis (for example, the repartition of
-diagnostic sherds from a period) and surface modeling (for assessing general
+and processes  and, potentially, the underlying process behind them, I will
+create visualization using point pattern analysis (for example, the repartition
+of diagnostic sherds from a period) and surface modeling (for assessing general
 trends like pottery densities). I focus on accounting for uncertainty in the
 mapping by integrating formally the temporal dimension. In this part I will
 implement research done in geographical research using aoristic analysis.
 Spatial uncertainty will be processed with multi-scalar and Monte Carlo
 approaches. Thus the results will not be to propose a single solution (a single
-pattern or process) but rather an environment where comparisons between alternative
-hypotheses are made easier.
-
-
-
-<!-- Commented out
-4. Enabling interactivity: Re-assessment of established narratives is often an
-   extremely slow process. It is seldom possible to quickly retrieve information
-from an archaeological project to reuse it for his own research. I will move
-beyond our singular focus on printed map to take advantage of digital
-interactivity by creating an easy to use interactive interface (with the library
-*Leaflet*). I want to  ease the  construction of alternative explanations by
-leveraging the capacities to draw personalized maps (zoom ability, selection of
-information, colors, style),.
--->
+pattern or process) but rather an environment where comparisons between
+alternative hypotheses are made easier.
 
 
 ## Resources required in Turkey
