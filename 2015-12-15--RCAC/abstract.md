@@ -12,12 +12,12 @@ hinterland occupation and flows of commodities) on the Milesian Peninsula
 (southwestern Turkey, province of Aydın) from the prehistoric to the ottoman
 period (ca. 5th millennium B.C./2nd millennium A.D.). The results of the
 intensive survey of the *Panormos Project* started in 2015 undoubtedly showed
-that the interspace between the well known settlements (Milet,
-Didyma, Tavşan Adası), remains mostly undocumented. This project is divided into
-two interdependent parts.
+that the interspace between the well known settlements (Milet, Didyma, Tavşan
+Adası), remains mostly undocumented. This project is divided into two
+interdependent parts.
 
 First, by analyzing freshly collected data from a micro-region, I target to
-build a visualization that made better justice to the remains, in order to
+build a visualization that do better justice to the remains, in order to
 understand the underlying processes (physical and cultural). How dramatic
 changes in the Milesian Peninsula  and complex cultural variations (rise of
 complexity, invasions, migrations, etc.) shifted the patterns of
@@ -33,7 +33,7 @@ archeology.
 
 Furthermore, an important goal of this project is to strength the ongoing
 relations and facilitate comparisons between surveys by enabling the creation of
-similar basis. The computational implementation of this project, will use the
-open source programming language R, making my research more  transparent,
+similar basis. The computational implementation of this project will use the
+open source programming language R and thus make my research more  transparent,
 reusable, adaptable and modifiable by other (anatolian) survey projects.  
 
