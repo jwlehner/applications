@@ -10,18 +10,18 @@ This project aims to characterize the nature and intensity of the
 human-environment interactions (exchange network, settlement patterns,
 hinterland occupation and flows of commodities) on the Milesian Peninsula
 (southwestern Turkey, province of Aydın) from the prehistoric to the ottoman
-period (ca. 5th millennium B.C./2nd millennium A.D.). The results of the
+era (ca. 5th millennium B.C./2nd millennium A.D.). The results of the
 intensive survey of the *Panormos Project* started in 2015 undoubtedly showed
 that the interspace between the well known settlements (Milet, Didyma, Tavşan
 Adası), remains mostly undocumented. This project is divided into two
 interdependent parts.
 
 First, by analyzing freshly collected data from a micro-region, I target to
-build a visualization that do better justice to the remains, in order to
-understand the underlying processes (physical and cultural). How dramatic
-changes in the Milesian Peninsula  and complex cultural variations (rise of
-complexity, invasions, migrations, etc.) shifted the patterns of
-human-environment interactions?
+build visualization (point patterns, surface modeling)  that do better justice
+to the remains, in order to understand the underlying processes (physical and
+cultural). How dramatic changes in the Milesian Peninsula  and complex cultural
+variations (rise of complexity, invasions, migrations, etc.) shifted the
+patterns of human-environment interactions?
 
 Second, uncertainty and inaccuracy in time and space (intrinsic to the nature of
 data) as well as in the collection of data ('human error') has been
