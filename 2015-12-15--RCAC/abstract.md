@@ -15,7 +15,7 @@ hinterland occupation and flows of commodities) on the Milesian Peninsula
 interdependent parts.
 
 First, by analyzing freshly collected data from a micro-region (*Panormos Survey
-Project*), I target to build visualization (point patterns, surface modeling)
+Project*), I will create visualization (point patterns, surface modeling)
 that do better justice to the remains, in order to understand the underlying
 processes (physical and cultural). How dramatic changes in the Milesian
 Peninsula  and complex cultural variations (rise of complexity, invasions,
@@ -29,7 +29,7 @@ records. This part of the project aims to expand the capacity of formulating
 human-environment generalizations and will have a broader impact on the field of
 archeology.
 
-Additionaly, an important goal of this project is to strength the ongoing
+Additionally, an important goal of this project is to strength the ongoing
 relations and facilitate comparisons between surveys by enabling the creation of
 similar basis. The computational implementation of this project will use the
 open source programming language R and thus make my research more  transparent,
