@@ -1,3 +1,10 @@
+---
+output: 
+  pdf_document: 
+    latex_engine: xelatex
+---
+
+<!--
 Project Description (Maximum 1500 words)
 
 The project description should include the project’s relevance to the given
@@ -8,15 +15,16 @@ well as what specific products (e.g., dissertation, articles, books) are
 expected as outcomes. This document should contain no bibliography nor
 footnotes.  
 
---------------------------------------------------------------------------------
 
+--------------------------------------------------------------------------------
+-->
 Koç RCAC: Post-Doc Fellowship application
 
 (words: 1458) 
 
 
 
-# Visualize Diachronic Human-environment Interactions: A Model for the Milesian Peninsula
+# Visualize Diachronic Human-environment Interactions: A Model for the Milesian Peninsula {.unnumbered}
 
  
 This project will characterize the human-environment interactions, their nature
@@ -33,15 +41,15 @@ interactions. The three principal lines of research encompass :
  1. Focus on traditional narrative reconstructions and their visualization by
     using data from the extensive and intensive survey of the *Panormos Project*
 on top of previous research. To what extent  and how was this landscape used
-during different eras? How dramatic changes in the landscapes (silting of the
-Büyük Menderes) associated with complex cultural variations shifted the patterns
+during different eras? How did dramatic changes in the landscapes (silting of the
+Büyük Menderes) associated with complex cultural variations shift the patterns
 of human-environment interactions? 
 
  2. Develop tools (open-source software packages) to explore the analytical
     consequences of temporal and spacial uncertainty and how they enrich our
-visualization and consequently our narrative reconstructions.  How
+visualization and consequently our narrative reconstructions.  How can
 quantification of uncertainties - a potsherd dating somewhere between 800 and 400
-B.C. - can be integrated  into archaeological analysis and be represented? 
+B.C. - be integrated  into archaeological analysis and be represented? 
 
  3. Leverage the (computational) transparency and reusability of my research to
     make it easily adaptable and modifiable by other (anatolian) survey
@@ -91,7 +99,7 @@ drainage trench. These results raised a number of questions about the wider
 context of the landscape surrounding the necropolis, the intensity and types of
 usage of the area, before and after its main occupation. Why after different
 extensive surveys was this necropolis still undiscovered and what does that mean
-for the general assessment of the region? In 2015, the *Project Panormos* team
+for the general assessment of the region? In 2014, the *Project Panormos* team
 started an intensive pedestrian survey that will continue during the summer
 2016.
 
