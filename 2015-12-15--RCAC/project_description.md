@@ -24,58 +24,56 @@ Koç RCAC: Post-Doc Fellowship application
 
 
 
-# Visualize Diachronic Human-environment Interactions: A Model for the Milesian Peninsula {.unnumbered}
+# The Visualization of Diachronic Human-environment Interactions: A Model for the Milesian Peninsula {.unnumbered}
 
  
-This project will characterize the human-environment interactions, their nature
-and intensity on the Milesian Peninsula (southwestern Turkey, province of Aydın)
+This project will characterize the nature and change of human-environment interactions on the Milesian Peninsula (southwestern Turkey, province of Aydın)
 from the prehistoric to the ottoman period (ca. 5th millennium B.C./2nd
 millennium A.D.). A new intensive survey on the peninsula provides the
 opportunity to reassess hypothesis concerning hinterland occupation, settlement
-patterns, interconnection and flows of commodities in this particular setting.
+patterns, interconnection, and commodity flows in this particular setting.
 More generally for the field of archeology, this work will formulate innovative
 generalizations about the visualization of uncertainty and inaccuracy in time
 and space - intrinsic to the nature of data - to address human-environment
-interactions. The three principal lines of research encompass : 
+interactions. The three principal lines of research encompass: 
 
  1. Focus on traditional narrative reconstructions and their visualization by
     using data from the extensive and intensive survey of the *Panormos Project*
-on top of previous research. To what extent  and how was this landscape used
+on top of previous research. To what extent and how was this landscape used
 during different eras? How did dramatic changes in the landscapes (silting of the
 Büyük Menderes) associated with complex cultural variations shift the patterns
 of human-environment interactions? 
 
  2. Develop tools (open-source software packages) to explore the analytical
     consequences of temporal and spacial uncertainty and how they enrich our
-visualization and consequently our narrative reconstructions.  How can
+visualization and consequently our narrative reconstructions. How can
 quantification of uncertainties - a potsherd dating somewhere between 800 and 400
 B.C. - be integrated  into archaeological analysis and be represented? 
 
  3. Leverage the (computational) transparency and reusability of my research to
-    make it easily adaptable and modifiable by other (anatolian) survey
-projects.  
+    make it easily adaptable and modifiable by other survey
+projects in Anatolia.  
 
-To achieve this goal, a 9-month fellowship at RCAC will give me the opportunity
-to, on one hand, interact with the very rich network of fellows and researchers
-at RCAC and at the Koç Universitiy bringing expertise and guidance in digital
+To achieve this goal, a 9-month fellowship at RCAC will give me the opportunity, on one hand, to interact with the very rich network of fellows and researchers
+at RCAC and at the Koç Universitiy, bringing expertise and guidance in digital
 archeology as well as in the material culture from the prehistoric to the
-ottoman period and, on the other hand, collaborate with other survey teams in
+ottoman period. On the other hand, the fellowship will afford me the opportunity to collaborate with other survey teams in
 Anatolia by promoting an open access and open research commitment.
 
 
 ## Background to the project 
 
-Multiple works have been dedicated on the geology of the Milesian Peninsula
-(Helmut Brückner), and  its archaeological remains (Milet, Priene, Didyma,
-Tavşan Adası) as well as  extensive surveys (Paul Wilski, Hans Lohmann) covering
-over a century of research. These works provides plenty of valuable information
-about the peninsula but need to be integrated and complemented to build
-computational model and to test hypotheses concerning hinterland occupation,
+Previous research has been dedicated to the geology of the Milesian Peninsula
+(Helmut Brückner) and  its archaeological remains (Milet, Priene, Didyma,
+Tavşan Adası) as well as extensive surveys (Paul Wilski, Hans Lohmann) spanning
+over a century of research. This work provides plenty of valuable information
+about the peninsula, but it needs to be integrated to build
+computational models and to test hypotheses concerning hinterland occupation,
 integration or economic organization. My involvement in the intensive survey of
 the *Panormos Project* made me aware of how small or short occupations, which
-populated this landscape, remain undocumented. Thus, 'unknown', 'negative' or
+populated this landscape, remain undocumented. Thus, 'unknown', 'negative', or
 'non significant' results tend to be dramatically overlooked. This lead to a
-biased representation of what exist. In addition, uncertainty and inaccuracy in
+biased representation of what actually exists. In addition, uncertainty and inaccuracy in
 time and space (intrinsic to the nature of data) as well as in the collection of
 data ('human error') has been underestimated, if not wholly ignored, in
 archaeological applications. By counter-balancing such selective reporting, this
@@ -156,7 +154,7 @@ different archaeological data set (before or after a field being plowed for
 example, or heavy rain). Attributed time to artifacts varies between ranges of
 25 years to 300 years, which are susceptible to evolve according to new
 discoveries or reevaluation of precedent assumption. To address spatial patterns
-and processes  and, potentially, the underlying process behind them, I will
+and processes and, potentially, the underlying process behind them, I will
 create visualization using point pattern analysis (for example, the repartition
 of diagnostic sherds from a period) and surface modeling (for assessing general
 trends like pottery densities). I focus on accounting for uncertainty in the
@@ -182,9 +180,9 @@ alternative hypotheses are made easier.
 
 This work will test long-held assumptions about the occupation from Prehistoric
 to Ottoman periods from the Milesian Peninsula, and demonstrate how
-uncertainties play a role in the construction of narratives. This research aims
-to build a model by examining a mirco-region using extensive, intensive survey,
-excavation data, but also integrating environmental data. Furthermore, an
+uncertainties play a role in data interpretation and the construction of narratives. This research aims
+to build a model by examining a mirco-region using extensive and intensive survey,
+excavation data, and environmental data. Furthermore, an
 important goal of this project is to strength the ongoing relations and
 facilitate comparisons between surveys by providing reusable code and enabling
 the creation of personalized maps to forge similar basis. This research project,
@@ -199,10 +197,10 @@ Tangible results of this work will include:
 
 1. **Workshop**: A small "internal" workshop will be organized to discuss
    methods, mapping techniques, and data sharing with survey project from
-Anatolia (March 2017)
+Anatolia (March 2017).
 
-2. **Article**:  "Visualize diachronic Human-environment Interactions: A Model
-  for the Milesian Peninsula" (to be submitted in June 2017)
+2. **Article**:  "The visualization of diachronic Human-environment Interactions: A Model
+  for the Milesian Peninsula" (to be submitted in June 2017).
 
 3. **Software Package**: All the code created for the article will be
   documented and available in a form of a package, freely accessible on-line
